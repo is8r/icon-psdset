@@ -14,7 +14,7 @@
 | favicon32.psd | 32x32 | favicon | for xp |
 | favicon48.psd | 48x48 | favicon | for vista |
 
-http://ao-system.net/favicon/index.phpなどでマルチアイコンに変更
+http://ao-system.net/favicon/ でマルチアイコンに変更
 
 ####apple-touch-icon
 
